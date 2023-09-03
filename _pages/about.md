@@ -39,7 +39,7 @@ redirect_from:
 - *2018*: &nbsp; One paper is accepted in Neurocomputing 2018.
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/MM23_COD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_COD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Frequency Perception Network for Camouflaged Object Detection]
 
@@ -51,7 +51,7 @@ ACM Multimedia (ACM MM) 2023,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/first_new_page-0001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/first_new_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Exploring the Robustness of Human Parsers Towards Common Corruptions]
 
