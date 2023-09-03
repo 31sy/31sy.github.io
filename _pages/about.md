@@ -22,19 +22,33 @@ redirect_from:
 
 
 # 🔥 News
-
+- *2023.09*: &nbsp; One model robustness paper is accepted by IEEE Transactions on Image Processing (TIP) 2023.
+  
 - *2022*: &nbsp; Two papers are accepted by IEEE Transactions on Image Processing (TIP) 2022.
 
 - *2021*: &nbsp; Our text detection paper is accepted by CVPR 2021.
 
 - *2020*: &nbsp; One human parsing paper is accepted by TCSVT -2020.
 
-- *2019*: &nbsp;One co-author's paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (T-GRS).
+- *2019*: &nbsp; One co-author's paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (T-GRS).
 
 - *2019*: &nbsp; One paper is accepted in T-CSVT 2019.
 
 - *2018*: &nbsp; One paper is accepted in Neurocomputing 2018.
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/first_new_page-0001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Exploring the Robustness of Human Parsers Towards Common Corruptions]
+
+**Sanyi Zhang**, Xiaochun Cao, Rui Wang, Guo-Jun Qi, Jie Zhou
+
+[**Code**](#) / [**Paper**](#) /  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE Transactions on Image Processing (TIP) 2023,  
+<font color=purple>Impact factor: 10.6</font>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/first-serial-edge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -151,7 +165,7 @@ Neurocomputing, 2018,
 
 # 📖 Educations
 - *2021.07 - 至今*,  博士后，信息安全国家重点实验室，中国科学院信息工程研究所，中国北京，指导老师：操晓春 教授
-- *2018.09 - 2019.09, CSC联培博士生，计算机科学，中佛罗里达大学（UCF），美国奥兰多，指导老师：Guo-Jun Qi 助理教授 
+- *2018.09 - 2019.09*, CSC联培博士生，计算机科学，中佛罗里达大学（UCF），美国奥兰多，指导老师：Guo-Jun Qi 助理教授 
 - *2015.09 - 2021.06*,  博士，信息与通信工程，天津大学，中国天津，指导老师：周杰 教授  宋占杰 教授
 - *2011.09 - 2014.07*,  硕士，计算机科学与技术，太原理工大学，中国太原，指导老师：张兴忠 教授
 - *2007.09 - 2011.07*,  本科，计算机科学与技术，太原理工大学，中国太原 
