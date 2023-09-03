@@ -39,21 +39,10 @@ redirect_from:
 - *2018*: &nbsp; One paper is accepted in Neurocomputing 2018.
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_COD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Frequency Perception Network for Camouflaged Object Detection]
-
-Runmin Cong, Mengyao Sun, **Sanyi Zhang**, Xiaofei Zhou, Wei Zhang, and Yao Zhao
-
-[**Code**](https://github.com/rmcong/FPNet_ACMMM23) / [**Paper**](https://arxiv.org/abs/2308.08924) /  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-ACM Multimedia (ACM MM) 2023,  
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/first_new_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Exploring the Robustness of Human Parsers Towards Common Corruptions]
+Exploring the Robustness of Human Parsers Towards Common Corruptions
 
 **Sanyi Zhang**, Xiaochun Cao, Rui Wang, Guo-Jun Qi, Jie Zhou
 
@@ -64,7 +53,20 @@ IEEE Transactions on Image Processing (TIP) 2023,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/first-serial-edge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/MM23_COD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Frequency Perception Network for Camouflaged Object Detection](https://arxiv.org/abs/2308.08924)
+
+Runmin Cong, Mengyao Sun, **Sanyi Zhang**, Xiaofei Zhou, Wei Zhang, and Yao Zhao
+
+[**Code**](https://github.com/rmcong/FPNet_ACMMM23) / [**Paper**](https://arxiv.org/abs/2308.08924) /  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+ACM Multimedia (ACM MM) 2023,  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/first-serial-edge.png' alt="sym" width="100%">
+</div></div>
 <div class='paper-box-text' markdown="1">
 [AIParsing: Anchor-free Instance-level Human Parsing](https://arxiv.org/abs/2207.06854)
 
