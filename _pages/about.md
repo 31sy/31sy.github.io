@@ -23,12 +23,14 @@ redirect_from:
 
 # 🔥 News
 - *2023.09*: &nbsp; One model robustness paper is accepted by IEEE Transactions on Image Processing (TIP) 2023.
+
+- *2023.07*: &nbsp; One camouflaged object detection paper is accepted by ACM MM 2023.
   
-- *2022*: &nbsp; Two papers are accepted by IEEE Transactions on Image Processing (TIP) 2022.
+- *2022.08*: &nbsp; Two papers are accepted by IEEE Transactions on Image Processing (TIP) 2022.
 
-- *2021*: &nbsp; Our text detection paper is accepted by CVPR 2021.
+- *2021.03*: &nbsp; Our text detection paper is accepted by CVPR 2021.
 
-- *2020*: &nbsp; One human parsing paper is accepted by TCSVT -2020.
+- *2020.04*: &nbsp; One human parsing paper is accepted by T-CSVT 2020.
 
 - *2019*: &nbsp; One co-author's paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (T-GRS).
 
@@ -37,7 +39,19 @@ redirect_from:
 - *2018*: &nbsp; One paper is accepted in Neurocomputing 2018.
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/first_new_page-0001.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/MM23_COD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Frequency Perception Network for Camouflaged Object Detection]
+
+Runmin Cong, Mengyao Sun, **Sanyi Zhang**, Xiaofei Zhou, Wei Zhang, and Yao Zhao
+
+[**Code**](https://github.com/rmcong/FPNet_ACMMM23) / [**Paper**](https://arxiv.org/abs/2308.08924) /  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+ACM Multimedia (ACM MM) 2023,  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/first_new_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Exploring the Robustness of Human Parsers Towards Common Corruptions]
 
