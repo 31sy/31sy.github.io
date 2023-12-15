@@ -170,7 +170,7 @@ Neurocomputing, 2018,
 </div>
 </div>
 
-- More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=n8TL-xkAAAAJ&hl=en) to view all papers.
+- More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=n8TL-xkAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/214/3977.html) to view all papers.
 
 # 🎖 Honors and Awards
 - *2023.12* **第三届中国图象图形学报研究生论坛 杰出报告奖**
