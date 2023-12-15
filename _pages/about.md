@@ -46,7 +46,7 @@ Exploring the Robustness of Human Parsers Towards Common Corruptions
 
 **Sanyi Zhang**, Xiaochun Cao, Rui Wang, Guo-Jun Qi, Jie Zhou
 
-[**Code**]([#](https://github.com/31sy/HeterAug/)) / [**Paper**]([#](https://ieeexplore.ieee.org/document/10254479)) /  [**arxiv**]([#]([https://ieeexplore.ieee.org/document/10254479](https://export.arxiv.org/abs/2309.00938)))/<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/31sy/HeterAug/) / [**Paper**](https://ieeexplore.ieee.org/document/10254479) /  [**arxiv**](https://export.arxiv.org/abs/2309.00938) /<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 IEEE Transactions on Image Processing (TIP) 2023,  
 <font color=purple>Impact factor: 10.6</font>
