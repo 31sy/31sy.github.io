@@ -46,7 +46,7 @@ Exploring the Robustness of Human Parsers Towards Common Corruptions
 
 **Sanyi Zhang**, Xiaochun Cao, Rui Wang, Guo-Jun Qi, Jie Zhou
 
-[**Code**](#) / [**Paper**](#) /  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**]([#](https://github.com/31sy/HeterAug/)) / [**Paper**]([#](https://ieeexplore.ieee.org/document/10254479)) /  [**arxiv**]([#]([https://ieeexplore.ieee.org/document/10254479](https://export.arxiv.org/abs/2309.00938)))/<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 IEEE Transactions on Image Processing (TIP) 2023,  
 <font color=purple>Impact factor: 10.6</font>
@@ -173,6 +173,7 @@ Neurocomputing, 2018,
 - More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=n8TL-xkAAAAJ&hl=en) to view all papers.
 
 # 🎖 Honors and Awards
+- *2023.12* **第三届中国图象图形学报研究生论坛 杰出报告奖**
 - *2022.05* **北京图象图形学学会BSIG2022年优秀博士论文提名奖**
 - *2019.12* **全国博士后人工智能发展与应用论坛 二等奖**
 - *2017.12* **中科院信息工程研究所 所长特别奖**
