@@ -25,12 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "张三义"
   avatar           : "images/sanyi.jpg"
-  bio              : "助理研究员  信息安全国家重点实验室  中国科学院信息工程研究所"
+  bio              : "副教授  数据科学与智能媒体学院  中国传媒大学"
   location         : "北京，中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n8TL-xkAAAAJ&hl=en"
-  email            : "zhangsanyi@iie.ac.cn"
+  email            : "zhangsanyi@cuc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Sanyi-Zhang" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
