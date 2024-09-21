@@ -149,7 +149,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2020,
 
 Chongyi Li, Runmin Cong, Junhui Hou, **Sanyi Zhang**, Yue Qian, Sam Kwong
 
-[**Code**](https://github.com/31sy/Clothing_TAN) / [**Paper**](https://ieeexplore.ieee.org/document/8654674) / <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://li-chongyi.github.io/proj_optical_saliency.html) / [**Paper**](https://ieeexplore.ieee.org/abstract/document/8793227)/ [**arxiv**](https://arxiv.org/abs/1906.08462) / <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2019,
 <font color=purple>Impact factor: 8.2</font>
