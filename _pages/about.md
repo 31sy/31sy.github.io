@@ -24,6 +24,13 @@ Hi! I am **Sanyi Zhang**. I am an Associate Professor at the School of Data Scie
 My current research interests include computer vision, human parsing, and clothing attribute learning.
 
 # 🔥 News
+
+- *2025.10*: &nbsp; One single-point human parsing paper is accepted by IEEE Transactions on Image Processing (TIP) 2025.
+
+- *2025.10*: &nbsp; One full-body pose motion tracking in VR paper is accepted by IEEE Transactions on  Automation Science and Engineering (TASE) 2025.
+
+- *2025.03*: &nbsp; One 3D human pose generation paper is accepted by ICME 2025.
+  
 - *2023.09*: &nbsp; One model robustness paper is accepted by IEEE Transactions on Image Processing (TIP) 2023.
 
 - *2023.07*: &nbsp; One camouflaged object detection paper is accepted by ACM MM 2023.
@@ -41,6 +48,32 @@ My current research interests include computer vision, human parsing, and clothi
 - *2018*: &nbsp; One paper is accepted in Neurocomputing 2018.
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/TIP-point.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Exploring the Robustness of Human Parsers Towards Common Corruptions
+
+**Sanyi Zhang**, Xiaochun Cao, Long Ye, Zhanjie Song, Guo-Jun Qi, Jie Zhou
+
+[**Code**]() / [**Paper**](https://ieeexplore.ieee.org/document/11249709) / /<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE Transactions on Image Processing (TIP) 2025,  
+<font color=purple>Impact factor: 13.7</font>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2025</div><img src='images/TASE-MCP.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Full-Body Pose Motion Tracking from Sparse Data via Morphology-aware Constraints
+
+Yinghao Yang, **Sanyi Zhang**, Chixuan Wei, Chenxi Feng, Xinyang Liu, Long Ye.
+
+[**Code**]() / [**Paper**](https://ieeexplore.ieee.org/document/11214203) / /<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE Transactions on Automation Science and Engineering (TASE) 2025,  
+<font color=purple>Impact factor: 6.4</font>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/first_new_page-0001.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,7 +84,7 @@ Exploring the Robustness of Human Parsers Towards Common Corruptions
 [**Code**](https://github.com/31sy/HeterAug/) / [**Paper**](https://ieeexplore.ieee.org/document/10254479) /  [**arxiv**](https://export.arxiv.org/abs/2309.00938) /<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 IEEE Transactions on Image Processing (TIP) 2023,  
-<font color=purple>Impact factor: 10.6</font>
+<font color=purple>Impact factor: 13.7</font>
 </div>
 </div>
 
@@ -77,7 +110,7 @@ ACM Multimedia (ACM MM) 2023,
 [**Code**](https://github.com/31sy/AIParsing) / [**Paper**](https://arxiv.org/abs/2207.06854) / [**Poster**](images/TIP-AIParsing.jpeg) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 IEEE Transactions on Image Processing (TIP) 2022,  
-<font color=purple>Impact factor: 10.6</font>
+<font color=purple>Impact factor: 13.7</font>
 </div>
 </div>
 
