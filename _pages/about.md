@@ -50,7 +50,7 @@ My current research interests include computer vision, human parsing, and clothi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/TIP-point.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Exploring the Robustness of Human Parsers Towards Common Corruptions
+Point Evolution Hierarchy Network for Weak Single-Point Human Parsing
 
 **Sanyi Zhang**, Xiaochun Cao, Long Ye, Zhanjie Song, Guo-Jun Qi, Jie Zhou
 
